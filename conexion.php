@@ -3,10 +3,10 @@ class Conexion {
     private $conexion;
 
     public function __construct() {
-        $server = "localhost";
-        $userdb = "root";
-        $passworddb = "temp";
-        $namedb = "tienda";
+        $server = "loggin.mysql.database.azure.com";
+        $userdb = "paco";
+        $passworddb = "199627Fggv27";
+        $namedb = "tiendawwe";
 
         $this->conexion = new mysqli($server, $userdb, $passworddb, $namedb);
 
