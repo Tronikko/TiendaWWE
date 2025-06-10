@@ -80,10 +80,6 @@
         <a href="productos.php" target="contentFrame">Productos</a>
         <a href="bitacora.php" target="contentFrame">Bitacora</a>
         <a href="reporte.php" target="contentFrame">Reporte</a>
-        
-        
-        
-        </a>
     </div>
         <div class="content">
             <iframe name="contentFrame" src=""></iframe>
